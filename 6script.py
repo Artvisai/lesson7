@@ -1,0 +1,3 @@
+import LibForSix
+
+LibForSix.OkayButThisIsTheLastTime()
